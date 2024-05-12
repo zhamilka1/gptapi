@@ -1,7 +1,7 @@
 from g4f.client import Client
 from fastapi import FastAPI
 from pydantic import BaseModel
-import g4f.Provider.DeepInfra
+
 
 client = Client()
 
